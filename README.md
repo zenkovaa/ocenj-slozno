@@ -1,0 +1,2 @@
+# Mans pirmais git projekts
+ 
